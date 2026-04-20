@@ -63,28 +63,28 @@ goodcabs-data-insights/
 - Monthly revenue contribution heatmap per city
 - Monthly revenue growth rate waterfall chart
 - Average distance vs fare per trip by city
-![Rvenue](https://github.com/RishabhHumnekar/Transportation-Mobility-/blob/main/Revenue.png)
+![Rvenue](https://github.com/RishabhHumnekar/Transportation-Mobility-/blob/main/Dashboard/Revenu.png)
 ### 2. Trips
 - Total trips vs target gauge — **426K actual / 429K target**
 - Weekday vs weekend trip breakdown by city
 - New vs Repeat passenger trip ratio: **0.71**
 - City-Month target gap table (actual − target trips)
 - Repeat trip frequency distribution (2–10 trips) by city
-![Trips](https://github.com/RishabhHumnekar/Transportation-Mobility-/blob/main/Trips.png)
+![Trips](https://github.com/RishabhHumnekar/Transportation-Mobility-/blob/main/Dashboard/Trips.png)
 ### 3. Passengers
 - Total: 238K | New: 177K | Repeat: 61K | RPR: 25.73%
 - RPR% heatmap by city and month
 - New passenger acquisition performance vs target
 - Top 3 cities — new acquisition: **Jaipur (46K), Kochi (26K), Chandigarh (19K)**
 - Bottom 3 cities: **Surat (11.6K), Vadodara (10.1K), Coimbatore (8.5K)**
-![Passangers](https://github.com/RishabhHumnekar/Transportation-Mobility-/blob/main/Passangers.png)
+![Passangers](https://github.com/RishabhHumnekar/Transportation-Mobility-/blob/main/Dashboard/Passangers.png)
 
 ### 4. Overall Summary
 - Executive KPI cards with sparkline trends
 - Full city comparison table (revenue, trips, passengers, ratings)
 - Best/least performing city matrix by trip count segment
 - Ranked revenue contribution with highest/lowest contributing months
-![Overall](https://github.com/RishabhHumnekar/Transportation-Mobility-/blob/main/Overall.png)
+![Overall](https://github.com/RishabhHumnekar/Transportation-Mobility-/blob/main/Dashboard/Overall.png)
 ---
 
 ## 💡 Key Insights
